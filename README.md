@@ -15,25 +15,25 @@
 ###### (Top 10 Districts by Flood Count): กราฟแท่งแนวนอนแสดง 10 เขตแรกที่มีสถิติน้ำท่วมบ่อยที่สุด
 <img src="Data%20Visualization/image/p1.png" width="500">
 
-(Top 10 Districts by Total Budget): กราฟแสดง 10 เขตที่ได้รับงบประมาณรวมสูงสุด
+###### (Top 10 Districts by Total Budget): กราฟแสดง 10 เขตที่ได้รับงบประมาณรวมสูงสุด
 <img src="Data%20Visualization/image/p2.png" width="500">
 
 ###### (Relationship Between Total Rainfall and Flood Count): กราฟจุด (Scatter Plot) แสดงความสัมพันธ์ระหว่าง "ปริมาณน้ำฝนรวม" กับ "จำนวนครั้งที่น้ำท่วม"
 <img src="Data%20Visualization/image/p3.png" width="500">
 
-(Drainage Dept vs District Office Budget): กราฟแท่งซ้อนทับ (Stacked Bar Chart) เจาะลึกงบประมาณของ 10 เขตแรก
+###### (Drainage Dept vs District Office Budget): กราฟแท่งซ้อนทับ (Stacked Bar Chart) เจาะลึกงบประมาณของ 10 เขตแรก
 <img src="Data%20Visualization/image/p4.png" width="500">
 
-(Budget Allocation by Project Group): กราฟโดนัทแสดงสัดส่วนการเทงบประมาณไปกับโครงการประเภทต่างๆ
+###### (Budget Allocation by Project Group): กราฟโดนัทแสดงสัดส่วนการเทงบประมาณไปกับโครงการประเภทต่างๆ
 <img src="Data%20Visualization/image/p5.png" width="500">
 
-(Distribution of Total Budget by Zone): กราฟ Box plot แสดงการกระจายตัวของงบประมาณเมื่อแบ่งตามโซนพื้นที่ (เช่น กรุงเทพฯ เหนือ, ใต้, ตะวันออก)
+###### (Distribution of Total Budget by Zone): กราฟ Box plot แสดงการกระจายตัวของงบประมาณเมื่อแบ่งตามโซนพื้นที่
 <img src="Data%20Visualization/image/p6.png" width="500">
 
-(Total Accumulated Flood Count by Zone): กราฟแท่งแสดงจำนวนครั้งที่น้ำท่วมสะสมแบ่งตามโซน
+###### (Total Accumulated Flood Count by Zone): กราฟแท่งแสดงจำนวนครั้งที่น้ำท่วมสะสมแบ่งตามโซน
 <img src="Data%20Visualization/image/p7.png" width="500">
 
-(Relationship Between Total Budget and Flood Count): กราฟจุดแสดงความสัมพันธ์ระหว่าง "งบประมาณที่ได้" กับ "จำนวนครั้งที่น้ำท่วม"
+###### (Relationship Between Total Budget and Flood Count): กราฟจุดแสดงความสัมพันธ์ระหว่าง งบประมาณที่ได้ กับ จำนวนครั้งที่น้ำท่วม
 <img src="Data%20Visualization/image/p9.png" width="500">
 
 ## Environmental interpretation
