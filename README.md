@@ -12,6 +12,15 @@
 
 ## Exploratory Data Analysis (EDA)
 - [EDA](EDA_Group_project_4cus.ipynb)
+
+<img src="figures/ดาวน์โหลด (7).png">
+<img src="figures/ดาวน์โหลด (8).png">
+<img src="figures/ดาวน์โหลด (9).png">
+<img src="figures/ดาวน์โหลด (10).png">
+<img src="figures/ดาวน์โหลด (11).png">
+<img src="figures/ดาวน์โหลด (12).png">
+<img src="figures/ดาวน์โหลด (13).png">
+
 ## Data Visualization
 - [Data Visualization Python](Data%20Visualization/Data_Visualization_for_Project.ipynb)
 
