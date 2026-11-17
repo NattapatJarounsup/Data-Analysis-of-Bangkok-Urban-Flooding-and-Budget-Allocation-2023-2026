@@ -2,10 +2,12 @@
 ## Environmental problem
 
 ## Dataset source
-- [Bangkok Budget by Project](bkk_budget_by_project.csv)
-- [Bangkok Flood 50 Districts](bkk_flood_50_districts.csv)
+https://rocketmedialab.co/database-bkk-budget-2026-draft-flood/
+https://rocketmedialab.co/database-flood-bangkok-index-2025/
 
 ## Data Cleaning and Transformation
+- [Bangkok Budget by Project](bkk_budget_by_project.csv)
+- [Bangkok Flood 50 Districts](bkk_flood_50_districts.csv)
 
 ## EDA
 
