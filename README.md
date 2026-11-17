@@ -12,13 +12,13 @@
 ## Data Visualization
 - [Data Visualization Python](Data%20Visualization/Data_Visualization_for_Project.ipynb)
 
-(Top 10 Districts by Flood Count): กราฟแท่งแนวนอนแสดง 10 เขตแรกที่มีสถิติน้ำท่วมบ่อยที่สุด
+###### (Top 10 Districts by Flood Count): กราฟแท่งแนวนอนแสดง 10 เขตแรกที่มีสถิติน้ำท่วมบ่อยที่สุด
 <img src="Data%20Visualization/image/p1.png" width="500">
 
 (Top 10 Districts by Total Budget): กราฟแสดง 10 เขตที่ได้รับงบประมาณรวมสูงสุด
 <img src="Data%20Visualization/image/p2.png" width="500">
 
-(Relationship Between Total Rainfall and Flood Count): กราฟจุด (Scatter Plot) แสดงความสัมพันธ์ระหว่าง "ปริมาณน้ำฝนรวม" กับ "จำนวนครั้งที่น้ำท่วม"
+###### (Relationship Between Total Rainfall and Flood Count): กราฟจุด (Scatter Plot) แสดงความสัมพันธ์ระหว่าง "ปริมาณน้ำฝนรวม" กับ "จำนวนครั้งที่น้ำท่วม"
 <img src="Data%20Visualization/image/p3.png" width="500">
 
 (Drainage Dept vs District Office Budget): กราฟแท่งซ้อนทับ (Stacked Bar Chart) เจาะลึกงบประมาณของ 10 เขตแรก
