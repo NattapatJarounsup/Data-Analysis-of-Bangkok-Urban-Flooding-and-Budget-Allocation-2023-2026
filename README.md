@@ -29,7 +29,6 @@ While the Bangkok Metropolitan Administration (BMA) allocates billions of baht a
 <img src="figures/ดาวน์โหลด (10).png">
 <img src="figures/ดาวน์โหลด (11).png">
 <img src="figures/ดาวน์โหลด (12).png">
-<img src="figures/ดาวน์โหลด (13).png">
 
 ## Data Visualization
 - [Data Visualization Python](Data%20Visualization/Data_Visualization_for_Project.ipynb)
@@ -48,6 +47,8 @@ While the Bangkok Metropolitan Administration (BMA) allocates billions of baht a
 
 ###### (Relationship Between Total Budget and Flood Count): กราฟจุดแสดงความสัมพันธ์ระหว่าง งบประมาณที่ได้ กับ จำนวนครั้งที่น้ำท่วม
 <img src="Data%20Visualization/image/p9.png" width="500">
+
+<img src="figures/ดาวน์โหลด (13).png">
 
 ## Environmental interpretation
 1. ปัจจัยทางธรรมชาติและการรับมือของเมือง (Climate & Infrastructure Focus)
