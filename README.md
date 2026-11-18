@@ -1,5 +1,10 @@
 # DataSci-ClimateChange
 ## Environmental problem
+## Environmental Problem
+
+Urban flooding during heavy rainfall remains one of the most persistent environmental and infrastructure challenges in Bangkok, Thailand. Frequent waterlogging on main roads disrupts daily commuting, damages public infrastructure, and severely impacts urban livability.
+
+While the Bangkok Metropolitan Administration (BMA) allocates billions of baht annually toward drainage systems and flood prevention projects, severe flooding continues to recur in several districts. **The core objective of this project is to investigate whether BMA's flood-prevention budget allocation aligns with actual flood severity across all 50 districts**—specifically examining the relationship between multi-year budget spending (2023–2026) and real-world flood frequency, rainfall volume, and drainage duration (2025).
 
 ## Dataset source
 - https://rocketmedialab.co/database-bkk-budget-2026-draft-flood/
