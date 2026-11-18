@@ -72,3 +72,21 @@ While the Bangkok Metropolitan Administration (BMA) allocates billions of baht a
 3. บทสรุปเชิงนโยบาย (Policy Implication)
 
 - การวิเคราะห์นี้ชี้ให้เห็นว่า ปัญหาน้ำท่วมในพื้นที่ไม่ได้เกิดจากข้อจำกัดทางสภาพอากาศเพียงอย่างเดียว แต่ยังเชื่อมโยงกับมิติของการบริหารจัดการเมือง ข้อมูลเสนอแนะว่าหน่วยงานที่เกี่ยวข้องควรมีการทบทวนเกณฑ์การกระจายงบประมาณให้เป็นธรรมมากขึ้น โดยมุ่งเป้าไปที่การบรรเทาทุกข์ในโซนที่วิกฤตที่สุดอย่างกรุงเทพฯ เหนือและกลาง พร้อมทั้งบูรณาการข้อมูลสถิติภัยพิบัติเข้ากับกระบวนการอนุมัติงบประมาณอย่างแท้จริง
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Natural Factors and City Response (Climate & Infrastructure Focus)   
+
+- Rainfall volume remains a significant primary factor triggering floods (rain-flood relationship graph). Looking at the budget, Bangkok primarily chooses to cope with this problem using "Grey Infrastructure," such as building dams, flood walls, drainage pipes, and tunnels, which consumes over 70% of the budget proportion.   
+
+- Observation: Pouring budget into large-scale constructions might solve the problem in certain spots, but it may lack flexibility in coping with climate change. The city might need to start considering the use of green spaces or "Green Infrastructure" to help absorb additional water.   
+
+2. Inequality and Efficiency in Resource Allocation (Resource Allocation & Equity)   
+
+- Data points to a "Mismatch" between the areas bearing the highest risk and the areas receiving the most financial support. A clear example is the Bang Kapi district, where citizens face flooding problems most frequently, yet it receives a low level of budget. Conversely, the Suan Luang district receives massive budget injections (mostly from the Department of Drainage and Sewerage), even though its flood statistics are not the highest.   
+
+- Observation: This data contradiction leads to environmental policy questions regarding whether current budget allocation is based on the actual hardship of citizens in the area (Data-driven decision) or based on plans to build specific mega-projects, which might cause some areas to be neglected (Environmental Injustice).   
+
+3. Policy Conclusion (Policy Implication)   
+
+- This analysis indicates that the flooding problem in the area is not solely caused by weather constraints but is also linked to the dimension of urban management. The data suggests that relevant agencies should review the budget distribution criteria to be more equitable, aiming at alleviating suffering in the most critical zones like Northern and Central Bangkok, while also genuinely integrating disaster statistical data into the budget approval process.   
